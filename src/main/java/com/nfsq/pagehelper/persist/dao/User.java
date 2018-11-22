@@ -19,13 +19,6 @@ public class User {
     private String orgName;
     private String company;
 
-    public Integer getId() {
-        return id;
-    }
-
-    public void setId(Integer id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
