@@ -20,10 +20,5 @@ public class User {
     @Column(name = "user_name")
     private String userName;
 
-    /**
-     * 密码
-     */
-    @Column(name = "password")
-    private String password;
 
 }
