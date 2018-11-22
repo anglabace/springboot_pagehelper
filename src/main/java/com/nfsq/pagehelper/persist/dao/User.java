@@ -17,7 +17,6 @@ public class User {
     private String password;
     private String empName;
     private String orgName;
-    private String company;
 
 
 
