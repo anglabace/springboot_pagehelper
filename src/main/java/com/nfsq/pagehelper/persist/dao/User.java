@@ -58,4 +58,12 @@ public class User {
     public void setOrgName(String orgName) {
         this.orgName = orgName;
     }
+
+    public String getCompany() {
+        return company;
+    }
+
+    public void setCompany(String company) {
+        this.company = company;
+    }
 }
